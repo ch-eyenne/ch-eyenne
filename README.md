@@ -14,3 +14,4 @@
 
 ## 🛠️ Want to Collborate?
 Reach out here: [Afuera on Itch.io](https://afuera.itch.io/)
+Or, [Send me an Email](mailto:afueragames@gmail.com)
