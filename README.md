@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**ch-eyenne/ch-eyenne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+- 🔭 I’m currently developing Indie Games
+- 👯 I’m interested in working on Open Source Projects
 
-Here are some ideas to get you started:
+## 🛠️ Technologies and Tools I use
+- Git
+- Python
+- RenPy
+- Visual Studio Code
+- Unity - Currently Learning
+- Unreal Engine - Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Want to Collborate?
+Reach out here: [Afuera on Itch.io](https://afuera.itch.io/)
